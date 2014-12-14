@@ -1,1 +1,17 @@
-Hello world!
+---
+layout: default
+title: work
+---
+
+<p>This site is a work in progress. Testing out deployment with github pages, more soon!</p>
+
+<div>
+{% for item in site.work limit:6 %}<div class="work {% cycle '', 'last-work' %}">
+	<a href="{{ item.url }}">
+	<div>
+	<img src="{{ site.baseurl }}{{ item.thumbnail-path }}" alt="{{ item.title }}"/>
+	</div>
+	<p>{{ item.title }}</p>
+	</a>
+	</div>{% endfor %}
+</div>

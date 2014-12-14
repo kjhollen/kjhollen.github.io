@@ -1,0 +1,261 @@
+/*
+ * katehollenbach.com
+ */
+
+
+
+
+/* fonts from Emigre ------------------------------------------------------- */
+
+@font-face{
+  font-family: BaseMonoReg;
+  src: url('basemonwidreg-071211005EmigreWebOnly.eot');
+  src: url('basemonwidreg-071211005EmigreWebOnly.eot?#iefix') format('embedded-opentype'),
+       url('basemonwidreg-071211005EmigreWebOnly.woff') format('woff');
+}
+
+@font-face{
+  font-family: BaseMonoThin;
+  src: url('basemonwidthi-071211005EmigreWebOnly.eot');
+  src: url('basemonwidthi-071211005EmigreWebOnly.eot?#iefix') format('embedded-opentype'),
+       url('basemonwidthi-071211005EmigreWebOnly.woff') format('woff');
+}
+
+@font-face{
+  font-family: LoResWide12;
+  src: url('lrtwbold-071211005EmigreWebOnly.eot');
+  src: url('lrtwbold-071211005EmigreWebOnly.eot?#iefix') format('embedded-opentype'),
+       url('lrtwbold-071211005EmigreWebOnly.woff') format('woff');
+}
+
+
+/* links ------------------------------------------------------------------- */
+
+a          { color: #ff0463; }
+a:active   { color: #555; }
+a:hover    { color: #000;    text-decoration:underline }
+
+a img {
+  border: none;
+}
+
+
+/* general page structure -------------------------------------------------- */
+
+body {
+  font-size: 11pt;
+  line-height: 1.4em;
+  margin: 0;
+  font-family: 'BaseMonoThin';
+}
+
+.page {
+  margin-left: auto;
+  margin-right: auto;
+  width: 940px;
+}
+
+
+/* headers ----------------------------------------------------------------- */
+
+h1, h2, h3 {
+  font-family: 'BaseMonoReg';
+}
+
+h1, h2, h3 {
+  font-size: 1em;
+}
+
+h2 {
+  text-transform: uppercase;
+  letter-spacing: .125em;
+  font-family: BaseMonoReg;
+  margin-top: 1.4em;
+  margin-bottom: 1.4em;
+  padding: 0;
+}
+
+h3 {
+  padding: 0;
+  margin: 0;
+}
+
+/* basic element styles ---------------------------------------------------- */
+
+p {
+  margin-top: 0;
+  margin-bottom: 1.4em;
+}
+
+.header-menu {
+  margin-top: 44px;
+  border-top: 6px solid #ff0463;
+  border-bottom: 2px solid #ff0463;
+  text-transform: uppercase;
+  letter-spacing: 0.125em;
+}
+
+h1, h2, #site-menu {
+  font-size: 1em;
+}
+
+
+/* menu & header ----------------------------------------------------------- */
+
+.nav-item {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#site-menu {
+  text-align: right;
+}
+
+#header h1 {
+  float: left;
+  margin: 0;
+}
+
+.work-title {
+  margin-top: 0;
+  font-family: 'BaseMonoThin';
+}
+
+#header ul {
+  margin: 0;
+  padding: 0;
+}
+
+#header ul li {
+  list-style-type: none;
+  list-style-image: none;
+  display: inline-block;
+}
+
+
+/* page content ------------------------------------------------------------ */
+
+.post p, .about {
+  width: 734px;
+}
+
+.post .video {
+  float: left;
+}
+
+.float-right {
+  float:right;
+}
+
+.right-images {
+  height: 343px;
+}
+
+.page-content {
+  padding: 30px 0;
+}
+
+.page-content p {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.line-buffer {
+  margin-bottom: 1.4em;
+}
+
+/* projects list on front page --------------------------------------------- */
+
+.work {
+  display: inline-block;
+  margin: 0 0 5px 5px;
+  padding: 4px;
+  border: 1px solid white;
+  width: 455px;
+}
+
+.work:hover {
+  border: 1px solid #ff0463;
+}
+
+.work p {
+  margin: 0px;
+}
+
+.last-work {
+  margin: 0 0 5px 0;
+}
+
+.work img {
+  width: 455px;
+}
+
+.work p {
+  margin: 0;
+  padding: 0;
+}
+
+
+/* grid structure ----------------------------------------------------------
+ *
+ * 920px wide overall, 30 columns @21px with 10px gutters
+ *
+ */
+
+.grid-padding-x {
+  margin-right: 10px;
+}
+
+.col-3-block, .col-5-block, .col-10-block, .col-15-block, .col-30-block {
+  display: inline-block;
+}
+
+.col-15-block {
+  width: 455px;
+}
+
+.col-10-block {
+  width: 300px;
+}
+
+.col-30-block {
+  width: 920px;
+}
+
+.col-3-block {
+  width: 83px;
+}
+
+.col-5-block {
+  width: 145px;
+}
+
+.invisible-margin {
+  margin-left:  10px;
+  margin-right: 10px;
+}
+
+.grid-margin-right {
+  margin-right: 10px;
+}
+
+.grid-margin-left {
+  margin-left: 10px;
+}
+
+.grid-margin-bottom {
+  margin-bottom: 10px;
+}
+
+.image-grid img {
+  margin-bottom: 10px;
+}
+
+.image-grid {
+  line-height: 0;
+  margin-bottom: 10px;
+}
+
+.about {
+  margin-top: 2.8em;
+}
