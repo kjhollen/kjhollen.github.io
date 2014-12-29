@@ -4,7 +4,7 @@ email: kjhollen@alum.mit.edu
 description: > # this means to ignore newlines until "baseurl:"
   Portfolio of Kate Hollenbach, a designer and programmer in Los Angeles.
 baseurl: ""
-url: "http://localhost:4000"
+url: "http://www.katehollenbach.com"
 twitter_username: kjhollen
 github_username:  kjhollen
 collections:
