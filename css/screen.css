@@ -251,6 +251,14 @@ h1, h2, #site-menu {
   margin-bottom: 10px;
 }
 
+.image-grid a {
+  margin: 0;
+  padding: 0;
+  width: 0;
+  height: 0;
+  font-size: 0;
+}
+
 .image-grid {
   line-height: 0;
   margin-bottom: 10px;

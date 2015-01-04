@@ -30,4 +30,4 @@ If you're interested in my work or just want to say hi, please
 
 This site is built on <a href="http://jekyllrb.com/">Jekyll</a> and
 <a href="https://pages.github.com/">GitHub pages</a>. The typeface used for this site is
-Base Mono from <a href="http://emigre.com/">Emigre</a>.
+Base Mono from <a href="http://emigre.com/">Emigre</a>. <a href="http://generic.cx/">Marcos Ojeda</a> took all of the <a href="https://www.flickr.com/photos/subliminal/sets/72157615073700173/">g-speak at RISD photos</a> found here.
