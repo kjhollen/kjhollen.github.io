@@ -195,6 +195,19 @@ h1, h2, #site-menu {
   padding: 0;
 }
 
+.work a {
+  text-decoration: none;
+}
+
+.work-title {
+  text-decoration: underline;
+}
+
+.work-date {
+  text-decoration: none;
+  color: #aaa;
+}
+
 
 /* grid structure ----------------------------------------------------------
  *
