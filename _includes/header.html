@@ -4,7 +4,7 @@
       <h1 class="nav-item"><a href="{{ site.url }}">kate hollenbach</a><span class="work-title">{% if page.type == "work" %} / {{ page.title }}{% endif %}</span></h1>
       <div id="site-menu">
       <ul>
-        <li class="nav-item col-3-block"><a href="{{ site.url }}">work</a></li>
+        {% if page.type == "work" %}<li class="nav-item col-3-block"><a href="{{ site.url }}">work</a></li>{% endif %}
         <li class="nav-item col-3-block"><a href="{{ site.url }}/about/">about</a></li>
       </ul>
       </div>

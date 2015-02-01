@@ -3,15 +3,13 @@ layout: default
 title: work
 ---
 
-<p>This site is a work in progress. Testing out deployment with github pages, more soon!</p>
-
 <div>
-{% for item in site.work limit:6 %}<div class="work {% cycle '', 'last-work' %}">
+{% for item in site.work limit:9 %}<div class="work {% cycle 'first-work', '', 'last-work' %}">
 	<a href="{{ item.url }}">
 	<div>
 	<img src="{{ site.baseurl }}{{ item.thumbnail-path }}" alt="{{ item.title }}"/>
 	</div>
-	<span class="work-title">{{ item.title }}</span><span class="work-date">&nbsp;{{ item.work-date }}</span></p>
+	<span class="work-title-splash">{{ item.title }}</span><span class="work-date">&nbsp;{{ item.work-date }}</span></p>
 	</a>
 	</div>{% endfor %}
 </div>
