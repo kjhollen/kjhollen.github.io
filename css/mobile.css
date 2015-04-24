@@ -4,6 +4,7 @@
 
 
 
+
 /* fonts from Emigre ------------------------------------------------------- */
 
 @font-face{
@@ -51,7 +52,7 @@ body {
 .page {
   margin-left: auto;
   margin-right: auto;
-  width: 940px;
+  width: 100%;
 }
 
 
@@ -87,6 +88,8 @@ p {
 }
 
 .header-menu {
+  padding-left: 10px;
+  padding-right: 10px;
   margin-top: 44px;
   border-top: 6px solid #ff0463;
   border-bottom: 2px solid #ff0463;
@@ -134,29 +137,25 @@ h1, h2, #site-menu {
 
 /* page content ------------------------------------------------------------ */
 
+div.post {
+  padding: 0 10px;
+}
+
 .post p, .about {
-  width: 734px;
+  width: 100%;
 }
 
-.post .video {
-  float: left;
-}
-
-.float-right {
-  float:right;
+.post img, .video {
+  width: 100%;
+  margin-bottom: 10px;
 }
 
 .right-images {
-  height: 343px;
+  width:100%;
 }
 
 .page-content {
-  padding: 30px 0;
-}
-
-.page-content p {
-  margin-left: 10px;
-  margin-right: 10px;
+  padding: 30px 0px;
 }
 
 .line-buffer {
@@ -165,31 +164,25 @@ h1, h2, #site-menu {
 
 /* projects list on front page --------------------------------------------- */
 
-.work {
+.work, .last-work, .first-work {
   display: inline-block;
-  padding: 4px;
-  border: 1px solid white;
-  width: 300px;
+  margin: 10px 0;
+  padding-bottom: 5px;
+  width: 100%;
+  background: #ff0463;
 }
 
 .work:hover {
-  border: 1px solid #ff0463;
-}
 
-.first-work {
-  margin: 0 0 5px 5px;
 }
 
 .work p {
   margin: 0px;
 }
 
-.last-work {
-  margin: 0 0 5px 0;
-}
 
 .work img {
-  width: 300px;
+  width: 100%;
 }
 
 .work p {
@@ -199,15 +192,17 @@ h1, h2, #site-menu {
 
 .work a {
   text-decoration: none;
+  color: white;
 }
 
 .work-title-splash {
   text-decoration: underline;
+  margin-left: 10px;
 }
 
 .work-date {
   text-decoration: none;
-  color: #aaa;
+  color: white;
 }
 
 
@@ -225,44 +220,11 @@ h1, h2, #site-menu {
   display: inline-block;
 }
 
-.col-15-block {
-  width: 455px;
-}
-
-.col-10-block {
-  width: 300px;
-}
-
-.col-30-block {
-  width: 920px;
-}
-
 .col-3-block {
   width: 83px;
 }
 
-.col-5-block {
-  width: 145px;
-}
-
-.invisible-margin {
-  margin-left:  10px;
-  margin-right: 10px;
-}
-
-.grid-margin-right {
-  margin-right: 10px;
-}
-
-.grid-margin-left {
-  margin-left: 10px;
-}
-
-.grid-margin-bottom {
-  margin-bottom: 10px;
-}
-
-.image-grid img {
+.image-grid {
   margin-bottom: 10px;
 }
 
@@ -274,27 +236,6 @@ h1, h2, #site-menu {
   font-size: 0;
 }
 
-.image-grid {
-  line-height: 0;
-  margin-bottom: 10px;
-}
-
 .about {
   margin-top: 2.8em;
-}
-
-.video610 {
-  width: 610px;
-  height: 343px;
-}
-
-.video455 {
-  width: 455px;
-  height: 256px;
-}
-
-.grid-crop-hack {
-  width: 300px; height:164px; 
-  overflow:hidden;
-  margin-bottom: 10px;
 }

@@ -13,8 +13,8 @@ Tangle was designed & developed as part of the Embodied Computation studio at RI
 
 <div class="invisible-margin image-grid">
 <div>
-<div class="video" style="margin-right: 10px;">
-<iframe src="//player.vimeo.com/video/115144188?color=ff0463" width="455" height="256" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<div class="video video455" style="margin-right: 10px;">
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://player.vimeo.com/video/115144188' frameborder='0' webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
 </div>
 <div>
 </div>
