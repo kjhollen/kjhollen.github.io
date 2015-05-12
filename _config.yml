@@ -10,6 +10,8 @@ github_username:  kjhollen
 collections:
   work:
     output: true
+gems:
+   - jekyll-sitemap
 
 # Build settings
 markdown: kramdown
