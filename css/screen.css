@@ -86,8 +86,13 @@ p {
   margin-bottom: 1.4em;
 }
 
+#header-image {
+  padding-top:16px;
+
+  padding-bottom:8px;
+}
+
 .header-menu {
-  margin-top: 44px;
   border-top: 6px solid #ff0463;
   border-bottom: 2px solid #ff0463;
   text-transform: uppercase;

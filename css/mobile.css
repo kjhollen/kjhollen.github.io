@@ -87,10 +87,15 @@ p {
   margin-bottom: 1.4em;
 }
 
+#header-image {
+  margin-top:16px;
+  margin-left:10px;
+  margin-bottom:8px;
+}
+
 .header-menu {
   padding-left: 10px;
   padding-right: 10px;
-  margin-top: 44px;
   border-top: 6px solid #ff0463;
   border-bottom: 2px solid #ff0463;
   text-transform: uppercase;
