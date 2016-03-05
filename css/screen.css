@@ -284,6 +284,10 @@ h1, h2, #site-menu {
   margin-bottom: 10px;
 }
 
+.image-inline {
+  width: 734px;
+}
+
 .about {
   margin-top: 2.8em;
 }

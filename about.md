@@ -3,16 +3,15 @@ layout: page
 title: About
 permalink: /about/
 ---
+<div><img class="image-inline grid-margin-left" style="margin-bottom:10px;" src="{{ site.baseurl }}/images/about.jpg"></div>
 
-I am a designer and programmer interested in information visualization and
-interaction design for new technologies. I work at 
-<a href="http://www.oblong.com">Oblong Industries</a> as the Director of Design
-&amp; Computation. Oblong builds g-speak, a platform for building gestural
-interfaces and interactions with multiple users, screens, and devices.
-It's a great deal of fun (and we are <a href="http://oblong.com/jobs">hiring</a>).
+I am a media artist working with interactive systems and new technologies. My art practice explores the relationship of technology, gesture, and motion. I am currently
+a graduate student in the <a href="http://dma.ucla.edu">Design Media Arts</a> program at UCLA.
 
-Before joining Oblong,
-I studied <a href="http://gd.risd.edu">Graphic Design</a> at the
+In the past, I was the Director of Design and Computation at 
+<a href="http://www.oblong.com">Oblong Industries</a>, where I led an interdisciplinary 
+team of designers and programmers building interfaces for collaborative spaces, incorporating large-scale displays and gesture tracking technology. I also studied
+<a href="http://gd.risd.edu">Graphic Design</a> at the
 <a href="http://www.risd.edu">Rhode Island School of Design</a> for a little while,
 worked as a graduate researcher in <a href="http://our.risd.edu">John Maeda</a>'s
 research group, the
