@@ -4,7 +4,7 @@ title: work
 ---
 
 <div>
-{% for item in site.work limit:9 %}<div class="work {% cycle 'first-work', '', 'last-work' %}">
+{% for item in site.work limit:12 %}<div class="work {% cycle 'first-work', '', 'last-work' %}">
 	<a href="{{ item.url }}">
 	<div>
 	<img src="{{ site.baseurl }}{{ item.thumbnail-path }}" alt="{{ item.title }}"/>
