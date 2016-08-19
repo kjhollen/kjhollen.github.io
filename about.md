@@ -3,7 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-<div><img class="image-inline grid-margin-left" style="margin-bottom:10px;" src="{{ site.baseurl }}/images/about.jpg"></div>
 
 I am a media artist working with interactive systems and new technologies. My art practice explores the relationship of technology, gesture, and motion. I am currently
 a graduate student in the <a href="http://dma.ucla.edu">Design Media Arts</a> program at UCLA.
@@ -23,7 +22,9 @@ If you're interested in my work or just want to say hi, please
 <a href="mailto:kjhollen@alum.mit.edu">get in touch</a>!
 
 <h2 class="about invisible-margin">Elsewhere</h2>
-<span>Recently</span> // <a href="http://twitter.com/kjhollen">Twitter</a> / <a href="http://www.linkedin.com/in/kjhollen/">LinkedIn</a> // <span>A while ago</span> // <a href="http://delicious.com/kjhollen">del.icio.us</a> / <a href="http://flickr.com/kjhollen">Flickr</a>
+<span>Recently</span> // <a href="http://www.instagram.com/kjhollen">Instagram</a> // <a href="http://www.github.com/kjhollen">github</a> // <a href="http://twitter.com/kjhollen">Twitter</a> / <a href="http://www.linkedin.com/in/kjhollen/">LinkedIn</a> 
+
+<span>A while ago</span> // <a href="http://delicious.com/kjhollen" style="text-decoration: line-through;">del.icio.us</a> / <a href="http://flickr.com/kjhollen">Flickr</a>
 
 <h2 class="about invisible-margin">About This Site</h2>
 

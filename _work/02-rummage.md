@@ -14,5 +14,5 @@ I curated the image collection for this application, programmed/designed an inte
 See Rummage in action in <a href="http://www.ted.com/talks/john_underkoffler_drive_3d_data_with_a_gesture?language=en">John Underkoffler's TED talk</a>.
 
 <div class="invisible-margin image-grid">
-<img class="col-15-block grid-margin-bottom grid-margin-right" src="{{ site.baseurl }}/images/rummage-1.jpg" /><img class="col-15-block grid-margin-bottom" src="{{ site.baseurl }}/images/rummage-2.jpg" /><img class="col-15-block grid-margin-bottom grid-margin-right" src="{{ site.baseurl }}/images/rummage-3.jpg" /><img class="col-15-block grid-margin-bottom " src="{{ site.baseurl }}/images/rummage-4.jpg" />
+<div class="col-15-block grid-margin-bottom grid-margin-right"><img src="{{ site.baseurl }}/images/rummage-1.jpg" /></div><div class="col-15-block grid-margin-bottom" ><img src="{{ site.baseurl }}/images/rummage-2.jpg" /></div><div class="col-15-block grid-margin-bottom grid-margin-right"><img src="{{ site.baseurl }}/images/rummage-3.jpg" /></div><div class="col-15-block grid-margin-bottom"><img src="{{ site.baseurl }}/images/rummage-4.jpg" /></div>
 </div>

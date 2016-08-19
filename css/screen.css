@@ -51,7 +51,7 @@ body {
 .page {
   margin-left: auto;
   margin-right: auto;
-  width: 940px;
+  max-width: 940px;
 }
 
 
@@ -140,7 +140,7 @@ h1, h2, #site-menu {
 /* page content ------------------------------------------------------------ */
 
 .post p, .about {
-  width: 734px;
+  max-width: 734px;
 }
 
 .post .video {
@@ -170,11 +170,24 @@ h1, h2, #site-menu {
 
 /* projects list on front page --------------------------------------------- */
 
+.intro {
+  margin-left: 5px;
+  margin-bottom: 1em;
+}
+
+#works {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 5px;
+}
+
 .work {
-  display: inline-block;
   padding: 4px;
   border: 1px solid white;
-  width: 300px;
+  min-width: 300px;
+  max-width: 700px;
+  flex: 1 1 auto;
+  margin-bottom: 5px;
 }
 
 .work:hover {
@@ -194,7 +207,7 @@ h1, h2, #site-menu {
 }
 
 .work img {
-  width: 300px;
+  width: 100%;
 }
 
 .work p {
@@ -215,6 +228,14 @@ h1, h2, #site-menu {
   color: #aaa;
 }
 
+.featured {
+  max-width: 920px;
+  width: 100%;
+}
+
+.featured img {
+  width: 100%;
+}
 
 /* grid structure ----------------------------------------------------------
  *
@@ -226,20 +247,34 @@ h1, h2, #site-menu {
   margin-right: 10px;
 }
 
-.col-3-block, .col-5-block, .col-10-block, .col-15-block, .col-30-block {
+.col-3-block, .col-5-block, .col-10-block, .col-20-block, .col-15-block, .col-30-block {
   display: inline-block;
+  flex: 1 1 auto;
+}
+
+.col-3-block img, .col-5-block img, .col-20-block img, .col-10-block img, .col-15-block img, .col-30-block img {
+  width: 100%;
+  height: auto;
 }
 
 .col-15-block {
-  width: 455px;
+  max-width: 455px;
+  height: auto;
 }
 
 .col-10-block {
-  width: 300px;
+  max-width: 300px;
+  height: auto;
+}
+
+.col-20-block {
+  max-width: 610px;
+  height: auto;
 }
 
 .col-30-block {
-  width: 920px;
+  max-width: 920px;
+  height: auto;
 }
 
 .col-3-block {
@@ -268,7 +303,6 @@ h1, h2, #site-menu {
 }
 
 .image-grid img {
-  margin-bottom: 10px;
 }
 
 .image-grid a {
@@ -282,10 +316,13 @@ h1, h2, #site-menu {
 .image-grid {
   line-height: 0;
   margin-bottom: 10px;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .image-inline {
-  width: 734px;
+  width: 100%;
+  max-width: 734px;
 }
 
 .about {
@@ -294,7 +331,7 @@ h1, h2, #site-menu {
 
 .video610 {
   width: 610px;
-  height: 343px;
+  height: auto;
 }
 
 .video455 {

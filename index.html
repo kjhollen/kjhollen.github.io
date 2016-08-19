@@ -3,8 +3,12 @@ layout: default
 title: work
 ---
 
-<div>
-{% for item in site.work limit:12 %}<div class="work {% cycle 'first-work', '', 'last-work' %}">
+<div class="intro">
+I am a programmer and media artist based in Los Angeles, California. I work with interactive systems and new technologies relating body, gesture, and physical space.
+</div>
+
+<div id="works">
+{% for item in site.work limit:12 %}<div class="work {% if item.featured == true %}featured{% endif %}">
 	<a href="{{ item.url }}">
 	<div>
 	<img src="{{ site.baseurl }}{{ item.thumbnail-path }}" alt="{{ item.title }}"/>
