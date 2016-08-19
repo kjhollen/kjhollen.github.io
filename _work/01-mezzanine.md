@@ -5,7 +5,7 @@ title: Mezzanine
 permalink: /mezzanine/
 thumbnail-path: images/mezzanine-thumb.jpg
 short-description: collaborative conference room
-work-date: 2010-2014
+work-date: 2010-2015
 ---
 
 Mezzanine is a collaborative conference room product from <a href="http://www.oblong.com">Oblong Industries</a> that melds gestural interfaces, personal devices, and large scale displays. All participants can contribute and arrange content simultaneously through their laptops, mobile devices, or a gestural wand device.
