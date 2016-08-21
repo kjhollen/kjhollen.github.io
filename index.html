@@ -8,7 +8,7 @@ I am a programmer and media artist based in Los Angeles, California. I work with
 </div>
 
 <div id="works">
-{% for item in site.work limit:12 %}<div class="work {% if item.featured == true %}featured{% endif %}">
+{% for item in site.work limit:13 %}<div class="work {% if item.featured == true %}featured{% endif %}">
 	<a href="{{ item.url }}">
 	<div>
 	<img src="{{ site.baseurl }}{{ item.thumbnail-path }}" alt="{{ item.title }}"/>
