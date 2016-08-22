@@ -2,16 +2,19 @@
 title: kate hollenbach DOT COM
 email: kjhollen@alum.mit.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Portfolio of Kate Hollenbach, a designer and programmer in Los Angeles.
+  Portfolio of Kate Hollenbach, a media artist and programmer in Los Angeles.
 baseurl: ""
 url: "http://www.katehollenbach.com"
 twitter_username: kjhollen
 github_username:  kjhollen
+instagram_username: kjhollen
+linkedin_username: kjhollen
 collections:
   work:
     output: true
 gems:
-   - jekyll-sitemap
+  - jekyll-sitemap
+  - jekyll-font-awesome
 
 # Build settings
 markdown: kramdown

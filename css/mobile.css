@@ -215,6 +215,15 @@ div.post {
   color: white;
 }
 
+.social {
+  font-size: 1.5em;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.social a {
+  margin-right: .5em;
+}
 
 /* grid structure ----------------------------------------------------------
  *

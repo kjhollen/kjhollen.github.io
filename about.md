@@ -22,9 +22,7 @@ If you're interested in my work or just want to say hi, please
 <a href="mailto:kjhollen@alum.mit.edu">get in touch</a>!
 
 <h2 class="about invisible-margin">Elsewhere</h2>
-<span>Recently</span> // <a href="http://www.instagram.com/kjhollen">Instagram</a> // <a href="http://www.github.com/kjhollen">github</a> // <a href="http://twitter.com/kjhollen">Twitter</a> / <a href="http://www.linkedin.com/in/kjhollen/">LinkedIn</a> 
-
-<span>A while ago</span> // <a href="http://delicious.com/kjhollen" style="text-decoration: line-through;">del.icio.us</a> / <a href="http://flickr.com/kjhollen">Flickr</a>
+{% include social.html %}
 
 <h2 class="about invisible-margin">About This Site</h2>
 
