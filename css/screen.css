@@ -176,9 +176,7 @@ h1, h2, #site-menu {
 .intro {
   margin-left: 10px;
   margin-bottom: 1em;
-  display: inline-block;
-  max-width: 734px;
-}
+  display: inline-block;}
 
 #works {
   display: flex;
