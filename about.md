@@ -4,28 +4,22 @@ title: About
 permalink: /about/
 ---
 
-I am a media artist working with interactive systems and new technologies. My art practice explores the relationship of technology, gesture, and motion. I am currently
-a graduate student in the <a href="http://dma.ucla.edu">Design Media Arts</a> program at UCLA.
+Kate Hollenbach is a programmer and media artist based in Los Angeles, California. She works with interactive systems and new technologies relating body, gesture, and physical space. She is currently a graduate student in <a href="http://dma.ucla.edu">UCLA Design Media Arts</a> and holds a B.Sc. in Computer Science and Engineering from MIT.
 
-In the past, I was the Director of Design and Computation at 
-<a href="http://www.oblong.com">Oblong Industries</a>, where I led an interdisciplinary 
-team of designers and programmers building interfaces for collaborative spaces, incorporating large-scale displays and gesture tracking technology. I also studied
-<a href="http://gd.risd.edu">Graphic Design</a> at the
-<a href="http://www.risd.edu">Rhode Island School of Design</a> for a little while,
-worked as a graduate researcher in <a href="http://our.risd.edu">John Maeda</a>'s
-research group, the
-<a href="http://plw.media.mit.edu">Physical Language Workshop</a> at the
-<a href="http://www.media.mit.edu">MIT Media Lab</a>, and earned a B.Sc. in Computer
-Science and Engineering from <a href="http://web.mit.edu">MIT</a>.
+Kate has also worked as an interface designer and product developer. As Director of Design and Computation at <a href="http://www.oblong.com">Oblong Industries</a>, she led an interdisciplinary team of designers and programmers to develop cutting edge user experiences for collaborative environments and new interaction models for gestural devices. She oversaw the design of Mezzanine, the company's flagship product.
+Mezzanine is in use today by clients including IBM, Accenture, CBRE, and Sonos. 
 
-If you're interested in my work or just want to say hi, please 
-<a href="mailto:kjhollen@alum.mit.edu">get in touch</a>!
+<a href="{{ site.baseurl }}/files/kjhollen-cv.pdf"><span style="font-family: BaseMonoReg; font-weight: bold;">View CV</span></a>
 
-<h2 class="about invisible-margin">Elsewhere</h2>
+
+<div style="height: 4em;">
+</div>
+
 {% include social.html %}
 
-<h2 class="about invisible-margin">About This Site</h2>
+<div class="about invisible-margin">
 
 This site is built on <a href="http://jekyllrb.com/">Jekyll</a> and
 <a href="https://pages.github.com/">GitHub pages</a>. The typeface used for this site is
 Base Mono from <a href="http://emigre.com/">Emigre</a>. <a href="http://generic.cx/">Marcos Ojeda</a> took all of the <a href="https://www.flickr.com/photos/subliminal/sets/72157615073700173/">g-speak at RISD photos</a> found here.
+</div>
