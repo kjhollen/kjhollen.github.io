@@ -1,11 +1,10 @@
 ---
 layout: page
 type: work
-title: phonelovesyoutoo
+title: phonelovesyoutoo (matrix)
 permalink: /phonelovesyoutoo/
 thumbnail-path: images/phonelovesyoutoo-thumb.jpg
 short-description: software, video projection
-featured: true
 work-date: 2016
 ---
 
