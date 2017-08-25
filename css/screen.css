@@ -150,6 +150,11 @@ h1, h2, #site-menu {
   float: left;
 }
 
+.post h2, .post h3 {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
 .float-right {
   float:right;
 }
