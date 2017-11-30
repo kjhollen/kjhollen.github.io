@@ -6,6 +6,7 @@ permalink: /openstudio/
 thumbnail-path: images/openstudio-thumb.jpg
 short-description: digital art community
 work-date: 2005-2008
+columns: 3
 ---
 
 Openstudio was an online experiment in collaboration, creativity, and capitalism created by the <a href="http://plw.media.mit.edu/">Physical Language Workshop</a> at the MIT Media Lab, led by <a href="https://twitter.com/johnmaeda">John Maeda</a>. Members of the community could commission, buy, and sell digital artworks created with a simple online drawing tool. The website launched in 2005 and ran until 2008.

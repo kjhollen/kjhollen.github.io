@@ -3,9 +3,10 @@ layout: page
 type: work
 title: Simple Business Machines
 permalink: /simple-business-machines/
-thumbnail-path: images/itsdoingit-thumb.jpg
+thumbnail-path: images/itsdoingit-thumb.png
 short-description: generative images
 work-date: 2015
+columns: 2
 ---
 
 <div class="invisible-margin image-grid">

@@ -6,6 +6,7 @@ permalink: /phonelovesyoutoo-database/
 thumbnail-path: images/phonelovesyoutoo-db-thumb.png
 short-description: software, video projection
 work-date: 2016
+columns: 2
 ---
 
 <div class="invisible-margin image-grid">
@@ -31,3 +32,19 @@ There are times in the 24-hour cycle where no clips are playing; instead, each
 frame is faded and frozen in time. The frozen frames are left behind to give a sense
 of presence of other clips even when they are not playing. Instead, a sense of anxiety
 comes from wondering when the next clip will pop up.
+
+
+<div class="invisible-margin image-grid">
+<div class="col-30-block grid-margin-bottom video">
+  <img src="{{ site.baseurl }}/images/plt-db-071534.png">
+</div>
+<div class="col-30-block grid-margin-bottom video">
+  <img src="{{ site.baseurl }}/images/plt-db-091448.png">
+</div>
+<div class="col-30-block grid-margin-bottom video">
+  <img src="{{ site.baseurl }}/images/plt-db-100247.png">
+</div>
+<div class="col-30-block grid-margin-bottom video">
+  <img src="{{ site.baseurl }}/images/plt-db-225403.png">
+</div>
+</div>

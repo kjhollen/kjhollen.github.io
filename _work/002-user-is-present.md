@@ -5,6 +5,7 @@ title: USER_IS_PRESENT
 permalink: /user-is-present/
 thumbnail-path: images/user-is-present-thumb.jpg
 short-description: software, installation
+columns: 4
 work-date: 2017
 ---
 
@@ -23,6 +24,45 @@ incredible speed without the awareness of the people around them.
 <em>USER_IS_PRESENT</em>
 captures the motion of the screen and the simultaneous motion of user's body
 in the physical world.
+
+<div class="invisible-margin image-grid">
+<div class="col-10-block grid-margin-bottom grid-margin-right video">
+<img src="{{ site.baseurl }}/images/uip-01.jpg">
+</div>
+<div class="col-10-block grid-margin-bottom grid-margin-right video">
+<img src="{{ site.baseurl }}/images/uip-02.jpg">
+</div>
+<div class="col-10-block grid-margin-bottom video">
+<img src="{{ site.baseurl }}/images/uip-03.jpg">
+</div>
+<div class="col-10-block grid-margin-bottom grid-margin-right video">
+<img src="{{ site.baseurl }}/images/uip-04.jpg">
+</div>
+<div class="col-10-block grid-margin-bottom grid-margin-right video">
+<img src="{{ site.baseurl }}/images/uip-05.jpg">
+</div>
+<div class="col-10-block grid-margin-bottom video">
+<img src="{{ site.baseurl }}/images/uip-06.jpg">
+</div>
+<div class="col-10-block grid-margin-bottom grid-margin-right video">
+<img src="{{ site.baseurl }}/images/uip-07.jpg">
+</div>
+<div class="col-10-block grid-margin-bottom grid-margin-right video">
+<img src="{{ site.baseurl }}/images/uip-08.jpg">
+</div>
+<div class="col-10-block grid-margin-bottom video">
+<img src="{{ site.baseurl }}/images/uip-09.jpg">
+</div>
+<div class="col-10-block grid-margin-bottom grid-margin-right video">
+<img src="{{ site.baseurl }}/images/uip-10.jpg">
+</div>
+<div class="col-10-block grid-margin-bottom grid-margin-right video">
+<img src="{{ site.baseurl }}/images/uip-11.jpg">
+</div>
+<div class="col-10-block grid-margin-bottom video">
+<img src="{{ site.baseurl }}/images/uip-12.jpg">
+</div>
+</div>
 
 To create <em>USER_IS_PRESENT</em>, I further developed <em>phonelovesyoutoo</em>
 to capture the screen of the phone while it was in use, in addition to the

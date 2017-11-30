@@ -6,6 +6,7 @@ permalink: /infinite-scroll/
 thumbnail-path: images/infinite-scroll-thumb.jpg
 short-description: generative video, installation
 work-date: 2016
+columns: 2
 ---
 
 <i>Infinite Scroll</i> will serve you content forever and ever and ever and ever.

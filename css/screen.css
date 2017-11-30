@@ -96,10 +96,9 @@ p {
 }
 
 .header-menu {
-  border-top: 6px solid #ff0463;
-  border-bottom: 2px solid #ff0463;
   text-transform: uppercase;
   letter-spacing: 0.125em;
+  background: #ff0463;
 }
 
 h1, h2, #site-menu {
@@ -110,12 +109,20 @@ h1, h2, #site-menu {
 /* menu & header ----------------------------------------------------------- */
 
 .nav-item {
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding: 10px;
+}
+
+.nav-item a {
+  color: white;
+}
+
+.nav-item:hover a {
+  color: black;
 }
 
 #site-menu {
   text-align: right;
+  color: white;
 }
 
 #header h1 {
@@ -125,6 +132,7 @@ h1, h2, #site-menu {
 
 .work-title {
   margin-top: 0;
+  color: white;
   font-family: 'BaseMonoThin';
 }
 
@@ -193,31 +201,54 @@ h1, h2, #site-menu {
   display: inline-block;}
 
 #works {
-  display: flex;
-  flex-wrap: wrap;
+  /*display: flex;
+  flex-wrap: wrap;*/
   margin: 0 5px;
 }
 
-.work {
-  padding: 4px;
-  border: 1px solid white;
-  min-width: 200px;
-  width: 300px;
-  max-width: 100%;
-  flex: 1 1 auto;
-  margin-bottom: 5px;
+.work, .work-sizer {
+  margin: 5px;
+
+  width: calc(16.67% - 10px);
 }
 
+.gutter-sizer {
+  width: 10px;
+}
+
+.work {
+  /*min-width: 200px;*/
+  /*flex: 1 1 auto;*/
+  margin-bottom: 5px;
+  padding-bottom: 5px;
+  background: black;
+
+  display: inline-block;
+}
+
+.work--width2 {
+  width: calc((16.67% - 10px) * 2 + 10px);
+}
+
+.work--width3 {
+  width: calc((16.67% - 10px) * 3 + 20px);
+}
+
+.work--width4 {
+  width: calc((16.67% - 10px) * 4 + 30px);
+}
+
+.work--width5 {
+  width: calc((16.67% - 10px) * 5 + 40px);
+}
+
+
 .work:hover {
-  border: 1px solid #ff0463;
+  background: #ff0463;
 }
 
 .first-work {
   margin: 0 0 5px 5px;
-}
-
-.work p {
-  margin: 0px;
 }
 
 .last-work {
@@ -226,15 +257,21 @@ h1, h2, #site-menu {
 
 .work img {
   width: 100%;
+  filter: opacity(100%);
+}
+
+.work:hover img {
+  filter: opacity(50%);
 }
 
 .work p {
-  margin: 0;
+  margin: 0 10px 0;
   padding: 0;
 }
 
 .work a {
   text-decoration: none;
+  color: white;
 }
 
 .work-title-splash {
@@ -243,7 +280,7 @@ h1, h2, #site-menu {
 
 .work-date {
   text-decoration: none;
-  color: #aaa;
+  color: white;
 }
 
 .featured {

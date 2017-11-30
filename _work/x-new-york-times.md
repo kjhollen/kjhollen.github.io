@@ -6,6 +6,7 @@ permalink: /new-york-times/
 thumbnail-path: images/new-york-times-thumb.png
 short-description: photocopier
 work-date: 2009
+hide: true
 ---
 A photocopier deconstruction of the New York Times. Formal exercise for Lucy Hitchcock’s Typography II class at Rhode Island School of Design.
 

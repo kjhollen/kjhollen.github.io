@@ -9,12 +9,28 @@ I am a programmer and media artist based in Los Angeles, California. I work with
 
 
 <div id="works">
-{% for item in site.work limit:15 %}<div class="work {% if item.featured == true %}featured{% endif %}">
+  <div class="work-sizer"></div>
+  <div class="gutter-sizer"></div>
+{% for item in site.work %}{% unless item.hide %}<div class="work {% if item.columns %}work--width{{item.columns}}{% endif %}">
 	<a href="{{ item.url }}">
 	<div>
 	<img src="{{ site.baseurl }}{{ item.thumbnail-path }}" alt="{{ item.title }}"/>
 	</div>
-	<span class="work-title-splash">{{ item.title }}</span><span class="work-date">&nbsp;{{ item.work-date }}</span></p>
+  <p><span class="work-title-splash">{{ item.title }}</span><span class="work-date"> {{ item.work-date }}</span></p>
 	</a>
-	</div>{% endfor %}
+	</div>{% endunless %}{% endfor %}
 </div>
+
+<script>
+  var $grid = $('#works').masonry({
+    itemSelector: '.work',
+    columnWidth: '.work-sizer',
+    percentPosition: true
+  });
+
+  console.log($grid);
+
+  $grid.imagesLoaded().progress(function() {
+    $grid.masonry('layout');
+  });
+</script>

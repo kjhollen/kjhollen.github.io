@@ -4,6 +4,7 @@ type: work
 title: phonelovesyoutoo (matrix)
 permalink: /phonelovesyoutoo/
 thumbnail-path: images/phonelovesyoutoo-thumb.jpg
+columns: 2
 short-description: software, video projection
 work-date: 2016
 ---

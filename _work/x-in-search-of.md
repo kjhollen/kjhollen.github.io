@@ -5,6 +5,7 @@ title: in search of
 permalink: /in-search-of/
 thumbnail-path: images/in-search-of-thumb.png
 short-description: generative software
+hide: true
 work-date: 2016
 ---
 

@@ -14,7 +14,7 @@ Formerly Director of Design and Computation at <a href="http://www.oblong.com" t
 She oversaw the design of Mezzanine, the company’s flagship product. Mezzanine is in use today by clients including IBM, Accenture, CBRE, and Sonos.
 Kate holds an MFA from <a href="http://dma.ucla.edu" target="main">UCLA Design Media Arts</a> and a B.Sc. in Computer Science and Engineering from MIT.
 
-Kate is currently contributing to <a href="http://p5js.org" target="main">p5.js</a> with support from Google Summer of Code and teaching Interactivity in Summer Session at UCLA.
+Kate is currently teaching Information Visualization at USC's <a href="http://cinema.usc.edu/imap/index.cfm">Media Arts + Practice Program</a> and Intro to Programming in the <a href="https://woodbury.edu/program/school-of-media-culture-design/applied-computer-science/">Applied Computer Science</a> department at Woodbury University. She is available for freelance art, design, and programming work.
 
 <a href="{{ site.baseurl }}/files/kate-hollenbach-cv.pdf"><span style="font-family: BaseMonoReg; font-weight: bold;">View CV</span></a>
 

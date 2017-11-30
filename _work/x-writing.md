@@ -6,6 +6,7 @@ permalink: /writing-book/
 thumbnail-path: images/writing-thumb.jpg
 short-description: book
 work-date: 2009
+hide: true
 ---
 
 Elements of Writing is a book that juxtaposes Marguerite Duras's *Writing* with Strunk and White's *Elements of Style*. The two different narratives and styles are depicted typographically and interwoven throughout the book. This work was my final project for Lucy Hitchcock's Typography II class at Rhode Island School of Design.
