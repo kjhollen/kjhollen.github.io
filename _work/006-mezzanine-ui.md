@@ -1,7 +1,7 @@
 ---
 layout: page
-type: work"
-title: "Mezzanine Device Design"
+type: work
+title: "Mezzanine Device UI Design"
 permalink: /mezzanine-ui-design/
 thumbnail-path: images/mezzanine-device-ui-thumb.png
 short-description: collaborative conference room
@@ -14,7 +14,12 @@ columns: 2
 </div>
 </div>
 
-Mezzanine is a collaborative conference room product from <a href="http://www.oblong.com">Oblong Industries</a> that melds gestural interfaces, personal devices, and large scale displays. All participants can contribute and arrange content simultaneously through their laptops, mobile devices, or a gestural wand device.
+
+
+<a href="{{ site.baseurl }}{% link _work/005-mezzanine.md %}">Mezzanine</a> is a collaborative conference room product from <a href="http://www.oblong.com">Oblong Industries</a> with interfaces for mobile devices, laptops, and large scale displays.
+Users can interact with the shared screens in the conference room through their personal devices or a gestural wand.
+The user interface across all platforms has a cohesive look and feel, designed to be minimally obtrusive and let the user's content shine.
+In 2015, the Oblong design team updated the user interfaces for various platforms to be more consistent and I was the creative director for the project.
 
 <div class="invisible-margin image-grid">
 <div class="col-15-block grid-margin-bottom grid-margin-right video">
@@ -31,6 +36,8 @@ Mezzanine is a collaborative conference room product from <a href="http://www.ob
 <div class="col-30-block grid-margin-bottom"><img src="{{ site.baseurl }}/images/Mezzanine-Web-UI.png">
 </div>
 </div>
+
+An older iteration of the Mezzanine UI for mobile devices and laptops is shown below.
 
 <div class="invisible-margin image-grid">
 <div class="col-30-block grid-margin-bottom"><img src="{{ site.baseurl }}/images/mezz-all-devices.jpg">

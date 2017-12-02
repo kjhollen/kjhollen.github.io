@@ -15,13 +15,18 @@ columns: 4
 </div>
 </div>
 
-Mezzanine is a collaborative conference room product from <a href="http://www.oblong.com">Oblong Industries</a> that melds gestural interfaces, personal devices, and large scale displays. All participants can contribute and arrange content simultaneously through their laptops, mobile devices, or a gestural wand device.
+Mezzanine is a collaborative conference room product from <a href="http://www.oblong.com">Oblong Industries</a> that melds gestural interfaces, personal devices, and large scale displays.
+All participants can contribute and arrange content simultaneously through their laptops, mobile devices, or a gestural wand device.
 
-Multiple Mezzanine rooms can be linked together for a remote-collaboration experience. The same content is displayed and synchronized across all connected sites. Any edits made at one site immediately become visible at another, so no one needs to spend time coordinating page or slide numbers while talking. Participants can focus on getting work done together.
+Multiple Mezzanine rooms can be linked together for a remote-collaboration experience.
+The same content is displayed and synchronized across all connected sites.
+Any edits made at one site immediately become visible at another, so no one needs to spend time coordinating page or slide numbers while talking.
+Participants can focus on getting work done together.
 
-As the design lead for Mezzanine, I contributed to product's visual design and user experience design across multiple platforms. On the technical side, I prototyped & wrote production code for the wand-driven interface.
+As Oblong’s Director of Design and Computation, I recruited and led an interdisciplinary team to define the company’s design direction and build user interfaces for Mezzanine.
+The team developed a cohesive visual and interactive style across large-scale displays, mobile devices with iOS and Android, and browser-based interfaces on laptops.
 
-For an overview of Mezzanine features, see the videos below. See also more details about the Mobile and Web UI Design for Mezzanine and the gestural interface for Mezzanine.
+For an overview of Mezzanine features, see the videos below. See also: more details about the <a href="{{ site.baseurl }}{% link _work/006-mezzanine-ui.md %}">mobile and web UI design for Mezzanine</a> and the <a href="{{ site.baseurl }}{% link _work/007-mezzanine-gesture-ui.md %}">gestural interface for Mezzanine</a>.
 
 <div class="invisible-margin image-grid">
 <div class="col-30-block grid-margin-bottom video">

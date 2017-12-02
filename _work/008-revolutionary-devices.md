@@ -10,6 +10,6 @@ work-date: 2015
 
 <div class="invisible-margin image-grid"><div class="col-30-block"><img style="width: 100%;" src="{{ site.baseurl }}/images/rev-devices.png"></div></div>
 
-<a href="http://revolutionarydevices.com" target="main">revolutionarydevices.com</a>
+<a href="http://revolutionarydevices.com" target="main">revolutionarydevices.com</a> generates a series of sketches for new and revolutionary mobile devices for as long as your browser can possibly stand.
 
 Made with <a href="https://github.com/evhan55/ploma">ploma</a> and <a href="http://p5js.org">p5.js</a>.

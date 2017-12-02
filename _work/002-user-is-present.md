@@ -15,15 +15,9 @@ work-date: 2017
 </div>
 </div>
 
-<em>USER_IS_PRESENT</em> looks at presence split across virtual and physical
-spaces. It is easy to look at a person on a mobile phone and think that they are
-withdrawn or checked out from the world around them; the device has a private screen
-and operates on a small scale. But the pace at which someone can navigate their
-own device is astonishing; they are running through a personalized experience at
-incredible speed without the awareness of the people around them.
-<em>USER_IS_PRESENT</em>
-captures the motion of the screen and the simultaneous motion of user's body
-in the physical world.
+<em>USER_IS_PRESENT</em>, an installation of three video portraits, documents the activities of three different users on their mobile devices by blending the simultaneous front camera, back camera, and screen captures from the device with a custom technique.
+The rendering technique creates an effect where the recordings from the device depict a space that is between physical and virtual realities: it blends elements of user, interface, and environment.
+The work examines the tensions of interface design for new technologies, from the collection or sensing of data to the systems of habits created from that data.
 
 <div class="invisible-margin image-grid">
 <div class="col-10-block grid-margin-bottom grid-margin-right video">
@@ -64,24 +58,17 @@ in the physical world.
 </div>
 </div>
 
-To create <em>USER_IS_PRESENT</em>, I further developed <em>phonelovesyoutoo</em>
-to capture the screen of the phone while it was in use, in addition to the
-front and back cameras.
-The same basic
-parameters applied: while the phone is in use, it records three video streams. The
-streams are later integrated together into a single channel using a custom blending
-technique. The result is a collage
-that mixes all three video feeds. The rendering techinque creates an effect where the
-recordings from device depict a space that is between physical and virtual realties:
-it blends elements of user, interface, and environment.
+To create <em>USER_IS_PRESENT</em>, I further developed the recording software used in <a href="{{ site.baseurl }}{% link _work/003-phonelovesyoutoo-matrix.md %}"><em>phonelovesyoutoo: matrix</em></a> to capture the screen of the phone while it was in use, in addition to the front and back cameras.
+The same basic parameters applied: while the phone is in use, it records three video streams.
+The streams are later integrated together into a single channel.
 
-The installation of <em>USER_IS_PRESENT</em> shows three video portraits each
-on its own display. The form of the monitors and luminance from the screen suggests
-qualities of the phone. The completed
-portraits show clips from each person collected in order of the time they were
-recorded, but edited to be 30 seconds or less to keep a fast pace through the video.
-Each compiled video loop was a different length and the playback of the videos was not synchronized,
-allowing interesting juxtapositions to occur by chance. At times, similar physical
-spaces are inhabited across different portraits, or similar activities are taking place,
-or the same person is texting both subjects. The chance juxtaposition allows different
-references to be drawn between the screens at different times.
+Each portrait is shown on its own display, with the form of the monitors and luminance from the screen suggesting qualities of the phone.
+The completed portraits show clips from each person collected in order of the time they were recorded, but edited to be 30 seconds or less to keep a fast pace through the video.
+Each compiled video loop was a different length and the playback of the videos was not synchronized, allowing interesting juxtapositions to occur by chance.
+There is more than just the blank gaze of the user; there is a flurry of activity and digital labor.
+At times, similar physical spaces are inhabited across different portraits, or similar activities are taking place, or the same person is texting both subjects.
+The chance juxtaposition allows different references to be drawn between the screens at different times.
+
+Select stills from each of the three video portraits are shown above.
+
+See also: <a href="{{ site.baseurl }}{% link _work/003-phonelovesyoutoo-matrix.md %}"><em>phonelovesyoutoo: matrix</em></a> and <a href="{{ site.baseurl }}{% link _work/001-phonelovesyoutoo-database.md %}"><em>phonelovesyoutoo: database</em></a>.

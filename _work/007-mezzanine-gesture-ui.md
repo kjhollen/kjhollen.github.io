@@ -9,7 +9,13 @@ work-date: 2010-2015
 columns: 3
 ---
 
-The Mezzanine Wand is a 6-degree-of-freedom device that enables pointing at any screen in a Mezzanine room. Visual feedback conveys the wand's location and movement&mdash;for example, while conveying that an element is simultaneously being moved and resized.
+The <a href="{{ site.baseurl }}{% link _work/005-mezzanine.md %}">Mezzanine</a> wand is a 6-degree-of-freedom device that enables pointing at any screen in a Mezzanine room.
+The Mezzanine interface provides rich visual feedback about the wand's movement to build the user's trust and confidence in their ability to use the device.
+Mezzanine is built on Oblong's g-speak platform, which models both the wand and the displays in the room in a coherent 3D space.
+The wand can even be used to interact with elements that are not represented on a screen, simply by pointing at them (for example, pointing at a whiteboard to take a picture of it).
+
+The videos below are from the product's user facing documentation and show the range of use cases for the wand.
+I worked on prototypes and production code for some of these features, as well as the visual design.
 
 <div class="invisible-margin image-grid">
 <div class="col-15-block grid-margin-right grid-margin-bottom"><img src="{{ site.baseurl }}/images/mezz-move-scale.jpg"></div><div class="col-15-block grid-margin-bottom"><img src="{{ site.baseurl }}/images/mezz-pushback.jpg"></div>
