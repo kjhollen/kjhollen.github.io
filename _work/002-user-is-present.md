@@ -5,6 +5,7 @@ title: USER_IS_PRESENT
 permalink: /user-is-present/
 thumbnail-path: images/user-is-present-thumb.jpg
 short-description: software, installation
+thumbnail-alt: "Woman examines a video collage portrait on a wall, showing a blend of a user's face, environment, and interface in user_is_present"
 columns: 4
 work-date: 2017
 ---
@@ -21,40 +22,40 @@ The work examines the tensions of interface design for new technologies, from th
 
 <div class="invisible-margin image-grid">
 <div class="col-10-block grid-margin-bottom grid-margin-right video">
-<img src="{{ site.baseurl }}/images/uip-01.jpg">
+<img src="{{ site.baseurl }}/images/uip-01.jpg" alt="Collage of the artist working on her software in the living room of her home, checking recorded videos on her phone in user_is_present">
 </div>
 <div class="col-10-block grid-margin-bottom grid-margin-right video">
-<img src="{{ site.baseurl }}/images/uip-02.jpg">
+<img src="{{ site.baseurl }}/images/uip-02.jpg" alt="Collage of artist sipping a lacroix while at home, reading a friend's email about art events in Los Angeles, in still frame from user_is_present">
 </div>
 <div class="col-10-block grid-margin-bottom video">
-<img src="{{ site.baseurl }}/images/uip-03.jpg">
+<img src="{{ site.baseurl }}/images/uip-03.jpg" alt="Collage of user laying on the couch while doing the Sunday New York Times crossword puzzle, in still frame from user_is_present">
 </div>
 <div class="col-10-block grid-margin-bottom grid-margin-right video">
-<img src="{{ site.baseurl }}/images/uip-04.jpg">
+<img src="{{ site.baseurl }}/images/uip-04.jpg" alt="User's digital grocery list items overlaid on the contents of their red shopping cart at the store, in still frame from user_is_present">
 </div>
 <div class="col-10-block grid-margin-bottom grid-margin-right video">
-<img src="{{ site.baseurl }}/images/uip-05.jpg">
+<img src="{{ site.baseurl }}/images/uip-05.jpg" alt="User's floral pajamas with overlay of some morning reading from McSweeney's, in still frame from user_is_present">
 </div>
 <div class="col-10-block grid-margin-bottom video">
-<img src="{{ site.baseurl }}/images/uip-06.jpg">
+<img src="{{ site.baseurl }}/images/uip-06.jpg" alt="Collage of user's perplexed face and heart patterned pajamas as she scrolls through news about Trump's tax returns, in still frame from user_is_present">
 </div>
 <div class="col-10-block grid-margin-bottom grid-margin-right video">
-<img src="{{ site.baseurl }}/images/uip-07.jpg">
+<img src="{{ site.baseurl }}/images/uip-07.jpg" alt="User rubbing her eyes in bed, with a collage of her homescreen and popcorn ceiling, in still frame from user_is_present">
 </div>
 <div class="col-10-block grid-margin-bottom grid-margin-right video">
-<img src="{{ site.baseurl }}/images/uip-08.jpg">
+<img src="{{ site.baseurl }}/images/uip-08.jpg" alt="User reads Twitter while crossing the street, in still frame from user_is_present">
 </div>
 <div class="col-10-block grid-margin-bottom video">
-<img src="{{ site.baseurl }}/images/uip-09.jpg">
+<img src="{{ site.baseurl }}/images/uip-09.jpg" alt="User checks her text messages while brushing her teeth, in still frame from user_is_present">
 </div>
 <div class="col-10-block grid-margin-bottom grid-margin-right video">
-<img src="{{ site.baseurl }}/images/uip-10.jpg">
+<img src="{{ site.baseurl }}/images/uip-10.jpg" alt="User texts some fashion advice to a friend from a club with vibrant blue and purple lighting, in still frame from user_is_present">
 </div>
 <div class="col-10-block grid-margin-bottom grid-margin-right video">
-<img src="{{ site.baseurl }}/images/uip-11.jpg">
+<img src="{{ site.baseurl }}/images/uip-11.jpg" alt="User looks at instagram while talking to her friend, in still frame from user_is_present">
 </div>
 <div class="col-10-block grid-margin-bottom video">
-<img src="{{ site.baseurl }}/images/uip-12.jpg">
+<img src="{{ site.baseurl }}/images/uip-12.jpg" alt="User tries to discretely text under the table in a meeting to answer her roommate's question about an upcoming date, in still frame from user_is_present">
 </div>
 </div>
 

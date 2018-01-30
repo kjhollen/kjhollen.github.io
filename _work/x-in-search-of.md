@@ -13,4 +13,4 @@ work-date: 2016
 
 Created for <a href="http://makingout.la">Makingout.la</a>. Makingout.la is co-curated by Camella DaEun Kim and artist/developer Tyler Stefanich, features 20 LA artists currently exhibiting at both landmark and unconventional art spaces, such as The Broad, LACMA, MAK Center for Art and Architecture, Jaus, 18th Street Arts Center and Museum of Jurassic Technology. Makingout.la enables visitors to these and other instiutions to augment the pleasure of looking at art in person by using a mobile phone’s web browser and GPS technology to “reveal” additional, virtual creative works at specific physical locations.
 
-<div class="invisible-margin image-grid"><div class="col-30-block"><img style="width: 100%;" src="{{ site.baseurl }}/images/in-search-of-2.png"></div></div>
+<div class="invisible-margin image-grid"><div class="col-30-block"><img style="width: 100%;" src="{{ site.baseurl }}/images/in-search-of-2.png" alt="in search of: rectanugular search paths, in a grid, with gradients in pink, blue, and purple gradients"></div></div>

@@ -4,6 +4,7 @@ type: work
 title: Simple Business Machines
 permalink: /simple-business-machines/
 thumbnail-path: images/itsdoingit-thumb.png
+thumbnail-alt: "Computer generated grid of buttons, lights, levers, and knobs from an early computing device from the 1960s"
 short-description: generative images
 work-date: 2015
 columns: 2
@@ -11,7 +12,7 @@ columns: 2
 
 <div class="invisible-margin image-grid">
 <div class="col-30-block grid-margin-bottom video">
-<img src="{{ site.baseurl }}/images/simple-business-machines.jpg">
+<img src="{{ site.baseurl }}/images/simple-business-machines.jpg" alt="Buttons, levers, and knobs from computers of the 1960s arranged in a randomly generated grid.">
 </div>
 </div>
 

@@ -4,6 +4,7 @@ type: work
 title: phonelovesyoutoo (database)
 permalink: /phonelovesyoutoo-database/
 thumbnail-path: images/phonelovesyoutoo-db-thumb.png
+thumbnail-alt: "A calendar grid of smartphone video taken simultaneously from the front and back camera of a user's phone for thirty one days in phonelovesyoutoo: database"
 short-description: software, video projection
 work-date: 2016
 columns: 2
@@ -34,16 +35,16 @@ Selected stills from the 24-hour video are shown below: 7:15am, 9:14am, 10:02am,
 
 <div class="invisible-margin image-grid">
 <div class="col-30-block grid-margin-bottom video">
-  <img src="{{ site.baseurl }}/images/plt-db-071534.png">
+  <img src="{{ site.baseurl }}/images/plt-db-071534.png" alt="phonelovesyoutoo: database at 7:15am with 5 active tiles showing the user just waking up in bed on different days">
 </div>
 <div class="col-30-block grid-margin-bottom video">
-  <img src="{{ site.baseurl }}/images/plt-db-091448.png">
+  <img src="{{ site.baseurl }}/images/plt-db-091448.png" alt="phonelovesyoutoo: database at 9:14am with 6 active tiles showing the user making breakfast, driving in a car, or sitting on their couch">
 </div>
 <div class="col-30-block grid-margin-bottom video">
-  <img src="{{ site.baseurl }}/images/plt-db-100247.png">
+  <img src="{{ site.baseurl }}/images/plt-db-100247.png" alt="phonelovesyoutoo:database at 10:02am with 7 active tiles showing the user driving in a car, sitting at their desk, or making a rare phone call">
 </div>
 <div class="col-30-block grid-margin-bottom video">
-  <img src="{{ site.baseurl }}/images/plt-db-225403.png">
+  <img src="{{ site.baseurl }}/images/plt-db-225403.png" alt="phonelovesyoutoo: database at 10:54pm with 4 active tiles showing the user working late, visiting friends, or getting ready for bed">
 </div>
 </div>
 

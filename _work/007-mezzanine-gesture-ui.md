@@ -4,6 +4,7 @@ type: work
 title: Mezzanine Gesture UI
 permalink: /mezzanine-gesture-design/
 thumbnail-path: images/mezz-gesture-ui-thumb.jpg
+thumbnail-alt: "A hand points a gestural wand at a screen, controlling the size and placement of a slide in a presentation in Oblong's Mezzanine"
 short-description: collaborative conference room
 work-date: 2010-2015
 columns: 3
@@ -18,7 +19,7 @@ The videos below are from the product's user facing documentation and show the r
 I worked on prototypes and production code for some of these features, as well as the visual design.
 
 <div class="invisible-margin image-grid">
-<div class="col-15-block grid-margin-right grid-margin-bottom"><img src="{{ site.baseurl }}/images/mezz-move-scale.jpg"></div><div class="col-15-block grid-margin-bottom"><img src="{{ site.baseurl }}/images/mezz-pushback.jpg"></div>
+<div class="col-15-block grid-margin-right grid-margin-bottom"><img src="{{ site.baseurl }}/images/mezz-move-scale.jpg" alt="User demonstrating how to move and resize an item on screen with the gestural wand in Mezzanine"></div><div class="col-15-block grid-margin-bottom"><img src="{{ site.baseurl }}/images/mezz-pushback.jpg" alt="User demonstrating the pushback gesture to control a presentation with the Mezzanine wand, with feedback graphics on the screen"></div>
 </div>
 
 <div class="invisible-margin image-grid">

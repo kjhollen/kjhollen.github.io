@@ -4,13 +4,14 @@ type: work
 title: "Mezzanine Device UI Design"
 permalink: /mezzanine-ui-design/
 thumbnail-path: images/mezzanine-device-ui-thumb.png
+thumbnail-alt: "A smartphone, tablet, and laptop computer showing the same screen of the Mezzanine collaboration interface, but unique to each platform"
 short-description: collaborative conference room
 work-date: 2010-2015
 columns: 2
 ---
 
 <div class="invisible-margin image-grid">
-<div class="col-30-block grid-margin-bottom"><img src="{{ site.baseurl }}/images/mezzanine-device-ui.png">
+<div class="col-30-block grid-margin-bottom"><img src="{{ site.baseurl }}/images/mezzanine-device-ui.png" alt="The Mezzanine interface for collaboration on mobile, tablet, and laptop devices, with synchronized presentation content.">
 </div>
 </div>
 
@@ -33,13 +34,13 @@ In 2015, the Oblong design team updated the user interfaces for various platform
 </div>
 
 <div class="invisible-margin image-grid">
-<div class="col-30-block grid-margin-bottom"><img src="{{ site.baseurl }}/images/Mezzanine-Web-UI.png">
+<div class="col-30-block grid-margin-bottom"><img src="{{ site.baseurl }}/images/Mezzanine-Web-UI.png" alt="The Mezzanine web interface allows for control and viewing of meeting content, with warm blue tones to create a stable but neutral look">
 </div>
 </div>
 
 An older iteration of the Mezzanine UI for mobile devices and laptops is shown below.
 
 <div class="invisible-margin image-grid">
-<div class="col-30-block grid-margin-bottom"><img src="{{ site.baseurl }}/images/mezz-all-devices.jpg">
+<div class="col-30-block grid-margin-bottom"><img src="{{ site.baseurl }}/images/mezz-all-devices.jpg" alt="An earlier version of the Mezzanine client interfaces from 2013, with less consistency between platforms.">
 </div>
 </div>

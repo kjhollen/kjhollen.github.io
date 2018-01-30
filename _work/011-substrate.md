@@ -4,6 +4,7 @@ type: work
 title: substrate
 permalink: /substrate/
 thumbnail-path: images/grid-thumb.jpg
+thumbnail-alt: "User demonstrating substrate capabilities by pointing two iPhones at a screen, distorting a grid of squares according to the movement of each device"
 short-description: processing sketch
 work-date: 2012
 ---

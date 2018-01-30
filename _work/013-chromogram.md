@@ -4,6 +4,7 @@ type: work
 title: Chromogram
 permalink: /chromogram/
 thumbnail-path: images/chromogram-thumb.png
+thumbnail-alt: "Data visualization representing the edit history of a single user with blocks of color corresponding to article title"
 short-description: data visualization
 work-date: 2006
 columns: 3
@@ -13,7 +14,7 @@ Chromogram is a visualization technique for revealing patterns in a large sequen
 
 <div class="invisible-margin image-grid">
 <div class="image-inline" style="text-align:center;">
-<img style="margin-left: auto; margin-right: auto;" src="{{ site.baseurl }}/images/chromogram-color-guide.png" />
+<img style="margin-left: auto; margin-right: auto;" src="{{ site.baseurl }}/images/chromogram-color-guide.png" alt="Color key demonstrating the text to color mapping algorithm for Chromogram, described above, with common words in Wikipedia article titles or comments"/>
 </div>
 </div>
 
@@ -21,7 +22,7 @@ Chromogram revealed some alphabetical editing sequences for many editors, in par
 
 <div class="invisible-margin image-grid">
 <div class="col-30-block">
-<img src="{{ site.baseurl }}/images/chromogram-pearle.png">
+<img src="{{ site.baseurl }}/images/chromogram-pearle.png" alt="Chromogram from bot user, Pearle, showing rainbow patterns of alphabetical tasks">
 </div>
 </div>
 
@@ -29,7 +30,7 @@ The color mapping algorithm is applied to two data points in edits to Wikipedia:
 
 <div class="invisible-margin image-grid">
 <div class="col-30-block">
-<img src="{{ site.baseurl }}/images/chromogram-titles.png">
+<img src="{{ site.baseurl }}/images/chromogram-titles.png" alt="Chomogram for user working on lists of articles, alternating between repetitive tasks and alphabetical articles">
 </div>
 </div>
 
@@ -37,7 +38,7 @@ Switching to the comment view (see below) reveals the the user alternates betwee
 
 <div class="invisible-margin image-grid">
 <div class="col-30-block">
-<img src="{{ site.baseurl }}/images/chromogram-comments.png">
+<img src="{{ site.baseurl }}/images/chromogram-comments.png" alt="Chormogram for the same user, as above, showing the different activites user engaged in by comment (as longer blocks of two alternating colors)">
 </div>
 </div>
 

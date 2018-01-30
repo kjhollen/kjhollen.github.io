@@ -4,6 +4,7 @@ type: work
 title: phonelovesyoutoo (matrix)
 permalink: /phonelovesyoutoo/
 thumbnail-path: images/phonelovesyoutoo-thumb.jpg
+thumbnail-alt: "Two walls covered in a video projection of a grid of many smartphone selfie camera videos from the same user in phonelovesyoutoo: matrix"
 columns: 2
 short-description: software, video projection
 work-date: 2016
@@ -21,7 +22,7 @@ The human relationship with the smartphone is an intimate one. The smartphone is
 
 <i>phonelovesyoutoo</i> is an immersive video matrix that captures my cellphone usage over a period of one month. Over 1000 videos from the phone's front facing camera are tiled across 3 walls. To create the video, I developed an Android application to automatically record video from the front and back camera of the phone every time the phone was in use (when the screen is unlocked). After a month of use, I’d amassed between 30–90 minutes of footage a day with an average of 30 videos today. Most videos are short: less than 30 seconds to respond to an email or fire off a text message. Longer durations result from activities like reading articles and using the GPS to trek across Los Angeles in rush hour.
 
-<div class="grid-margin-left grid-margin-right"><img class="image-inline" style="margin-bottom:10px;" src="{{ site.baseurl }}/images/phonelovesyoutoo-detail.jpg"></div>
+<div class="grid-margin-left grid-margin-right"><img class="image-inline" style="margin-bottom:10px;" src="{{ site.baseurl }}/images/phonelovesyoutoo-detail.jpg" alt="An excerpt from phonelovesyoutoo: matrix, showing the user's blank look at the phone while she's performing mundane activites"></div>
 
 Each tile in the matrix captures habits, expressions, and neuroses. With the face in the frame, there is room for little else, but noticeable differences are present: rumpled hair and puffy eyes in the morning, red lipstick for an evening out, wet hair after a shower. The context changes but the face mostly stays the same: it is a blank expression, a concentrating expression, the kind of vacant look reserved only for glowing screens.
 

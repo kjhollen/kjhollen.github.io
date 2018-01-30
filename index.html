@@ -14,7 +14,7 @@ I am a programmer and media artist based in Los Angeles, California. I work with
 {% for item in site.work %}{% unless item.hide %}<div class="work {% if item.columns %}work--width{{item.columns}}{% endif %}">
 	<a href="{{ item.url }}">
 	<div>
-	<img src="{{ site.baseurl }}{{ item.thumbnail-path }}" alt="{{ item.title }}"/>
+	<img src="{{ site.baseurl }}{{ item.thumbnail-path }}" alt="{{ item.thumbnail-alt }}"/>
 	</div>
   <p><span class="work-title-splash">{{ item.title }}</span><span class="work-date"> {{ item.work-date }}</span></p>
 	</a>

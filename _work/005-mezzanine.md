@@ -4,6 +4,7 @@ type: work
 title: Mezzanine
 permalink: /mezzanine/
 thumbnail-path: images/mezzanine-thumb.jpg
+thumbnail-alt: "Four people collaborating in a high-tech Oblong Mezzanine conference room with many high-resolution screens on the walls, multiple laptops, and a gestural pointing device"
 short-description: collaborative conference room
 work-date: 2010-2015
 columns: 4
@@ -11,7 +12,7 @@ columns: 4
 
 <div class="invisible-margin image-grid">
 <div class="col-30-block grid-margin-bottom video">
-  <img src="{{ site.baseurl }}/images/Mezzanine-Multi-Wall-2.jpg" alt="Mezzanine from Oblong Industries">
+  <img src="{{ site.baseurl }}/images/Mezzanine-Multi-Wall-2.jpg" alt="Mezzanine from Oblong Industries: a conference room with many high resolution screens and points of input">
 </div>
 </div>
 
