@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Kate Hollenbach is an artist, programmer, and educator based in Los Angeles, California.
+Kate Hollenbach is an artist, programmer, and educator based in Chicago, Illinois and Los Angeles, California.
 She develops and examines interactive systems and new technologies relating body, gesture, and physical space.
 Her recent work includes <em>phonelovesyoutoo</em>, an Android application that lovingly watches its user’s activities by capturing video from the phone’s front camera, back camera, and screen.
 Through the application, Kate generates video works to understand what mobile devices see when they observe human bodies and how human presence is split between physical and virtual planes.
@@ -14,7 +14,7 @@ Formerly Director of Design and Computation at <a href="http://www.oblong.com" t
 She oversaw the design of Mezzanine, the company’s flagship product. Mezzanine is in use today by clients including IBM, Accenture, CBRE, and Sonos.
 Kate holds an MFA from <a href="http://dma.ucla.edu" target="main">UCLA Design Media Arts</a> and a B.Sc. in Computer Science and Engineering from MIT.
 
-Kate is currently teaching Information Visualization at USC's <a href="http://cinema.usc.edu/imap/index.cfm">Media Arts + Practice Program</a> and Intro to Programming in the <a href="https://woodbury.edu/program/school-of-media-culture-design/applied-computer-science/">Applied Computer Science</a> department at Woodbury University. She is available for freelance art, design, and programming work.
+Kate is currently teaching interactive media design and programming courses at DePaul University School of Design in the College of Computing and Digital Media.
 
 <a href="{{ site.baseurl }}/files/kate-hollenbach-cv.pdf"><span style="font-family: BaseMonoReg; font-weight: bold;">View CV</span></a>
 
