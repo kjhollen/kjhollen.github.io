@@ -26,6 +26,6 @@ The human relationship with the smartphone is an intimate one. The smartphone is
 
 Each tile in the matrix captures habits, expressions, and neuroses. With the face in the frame, there is room for little else, but noticeable differences are present: rumpled hair and puffy eyes in the morning, red lipstick for an evening out, wet hair after a shower. The context changes but the face mostly stays the same: it is a blank expression, a concentrating expression, the kind of vacant look reserved only for glowing screens.
 
-<i>phonelovesyoutoo: matrix</i> was recently exhibit at SFMoMA as part of the Snap + Share exhibition.
+<i>phonelovesyoutoo: matrix</i> was recently exhibit at SFMOMA as part of the Snap + Share exhibition.
 
 See also: <a href="{{ site.baseurl }}{% link _work/003a-phonelovesyoutoo-database.md %}"><em>phonelovesyoutoo: database</em></a> and <a href="{{ site.baseurl }}{% link _work/002a-user-is-present.md %}"><em>USER_IS_PRESENT</em></a>.
