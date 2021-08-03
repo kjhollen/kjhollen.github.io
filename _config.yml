@@ -12,7 +12,7 @@ linkedin_username: kjhollen
 collections:
   work:
     output: true
-gems:
+plugins:
   - jekyll-sitemap
   - jekyll-font-awesome
 
