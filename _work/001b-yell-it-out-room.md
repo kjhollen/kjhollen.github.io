@@ -10,7 +10,7 @@ columns: 2
 work-date: 2020
 ---
 
-<em><a href="https://www.supercharge2020.com/rooms/yelling-room">The Yell It Out Room</a><em>was designed for Supermajority, which is a non-profit organization that supports women’s issues in voting and politics.
+<em><a href="https://www.supercharge2020.com/rooms/yelling-room">The Yell It Out Room</a></em> was designed for Supermajority, which is a non-profit organization that supports women’s issues in voting and politics.
 The “room” is a website that creates a playful space for the viewer to yell out their frustration.
 The project was included in an online event that the organization held to promote US voter registration in September 2020.
 
