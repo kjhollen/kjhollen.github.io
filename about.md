@@ -19,7 +19,7 @@ Her art practice is informed by years of professional experience and as an inter
 Formerly Director of Design and Computation at <a href="http://www.oblong.com" target="main">Oblong Industries</a>, she led an interdisciplinary team of designers and programmers to develop cutting edge user experiences for collaborative environments and new interaction models for gestural devices.
 She has presented and exhibited work in venues across the United States, including the San Francisco Museum of Modern Art, SIGGRAPH, and INST-INT. 
 Kate holds an MFA from <a href="http://dma.ucla.edu" target="main">UCLA Design Media Arts</a> and a B.S. in Computer Science and Engineering from MIT.
-Kate is currently an Assistant Professor of <a href="https://liberalarts.du.edu/emergent-digital-practices">Emergent Digital Practices</a> at University of Denver.
+Kate is currently an Assistant Professor of <a href="https://liberalarts.du.edu/emergent-digital-practices">Emergent Digital Practices</a> at University of Denver and serves on the board of directors for the <a href="https://processingfoundation.org/">Processing Foundation</a>.
 
 <a href="{{ site.baseurl }}/files/kate-hollenbach-cv.pdf"><span style="font-family: BaseMonoReg; font-weight: bold;">View CV</span></a>
 
