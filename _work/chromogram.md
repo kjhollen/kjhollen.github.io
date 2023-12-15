@@ -8,6 +8,7 @@ thumbnail-alt: "Data visualization representing the edit history of a single use
 short-description: data visualization
 work-date: 2006
 columns: 3
+order: 22
 ---
 
 Chromogram is a visualization technique for revealing patterns in a large sequence of text data. While working with Martin Wattenberg and Fernanda Viégas, we applied this technique to individuals' contributions to Wikipedia. The first three letters of an article title or comment are respectively mapped to a hue, saturation, and brightness range, revealing patterns of editing and repeated tasks.

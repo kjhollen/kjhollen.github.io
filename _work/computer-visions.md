@@ -8,9 +8,10 @@ short-description: software, print
 thumbnail-alt: "A collage of computer vision imagery from a computer screen, person's face, and their home in in bright greens, blues, and purples."
 columns: 2
 work-date: 2019
+order: 5
 ---
 
-<em>Computer Visions</em> is a print series that analyzes videos collected using <a href="{{ site.baseurl }}{% link _work/003b-phonelovesyoutoo-matrix.md %}">phonelovesyoutoo</a> and abstracts them using the visual language of computer vision algorithms.
+<em>Computer Visions</em> is a print series that analyzes videos collected using <a href="{{ site.baseurl }}{% link _work/phonelovesyoutoo-matrix.md %}">phonelovesyoutoo</a> and abstracts them using the visual language of computer vision algorithms.
 The images blend elements of the digital and physical environment captured by the device.
 
 <div class="invisible-margin image-grid">

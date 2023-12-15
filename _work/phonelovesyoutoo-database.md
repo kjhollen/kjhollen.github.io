@@ -8,6 +8,7 @@ thumbnail-alt: "A calendar grid of smartphone video taken simultaneously from th
 short-description: software, video projection
 work-date: 2016
 columns: 2
+order: 8
 ---
 
 <div class="invisible-margin image-grid">
@@ -17,7 +18,7 @@ columns: 2
 </div>
 
 <em>phonelovesyoutoo: database</em> displays one month of my phone activity as seen through the device's two cameras.
-The videos in this work were recorded using the same capture software and data from <a href="{{ site.baseurl }}{% link _work/003b-phonelovesyoutoo-matrix.md %}"><em>phonelovesyoutoo: matrix</em></a>.
+The videos in this work were recorded using the same capture software and data from <a href="{{ site.baseurl }}{% link _work/phonelovesyoutoo-matrix.md %}"><em>phonelovesyoutoo: matrix</em></a>.
 In a 24-hour period, the all recorded clips are displayed at the time of day they were originally recorded, providing a glimpse of the relationship between human, device, time, and physical space.
 The frame of the video contains 31 cells arranged like a calendar; one column for each day of the week and one row for each week in the month.
 Each cell contains a diptych of front and back camera videos from the corresponding days. The clips play during the time of day they were recorded.
@@ -48,4 +49,4 @@ Selected stills from the 24-hour video are shown below: 7:15am, 9:14am, 10:02am,
 </div>
 </div>
 
-See also: <a href="{{ site.baseurl }}{% link _work/003b-phonelovesyoutoo-matrix.md %}"><em>phonelovesyoutoo: matrix</em></a> and <a href="{{ site.baseurl }}{% link _work/002a-user-is-present.md %}"><em>USER_IS_PRESENT</em></a>.
+See also: <a href="{{ site.baseurl }}{% link _work/phonelovesyoutoo-matrix.md %}"><em>phonelovesyoutoo: matrix</em></a> and <a href="{{ site.baseurl }}{% link _work/user-is-present.md %}"><em>USER_IS_PRESENT</em></a>.

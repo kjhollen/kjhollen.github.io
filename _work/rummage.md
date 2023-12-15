@@ -7,6 +7,7 @@ thumbnail-path: images/rummage-thumb.jpg
 thumbnail-alt: "Man demonstrates rummage by controlling two large rectangles on a triptych of computer monitors using his arms outstretched to his side"
 short-description: color sort
 work-date: 2010
+order: 18
 ---
 Rummage is an image sorting & collating demo for <a href="http://www.oblong.com">Oblong</a>'s g-speak. Images are arranged in various configurations in 3D space and controlled by hand gestures.
 

@@ -8,9 +8,10 @@ thumbnail-alt: "A hand points a gestural wand at a screen, controlling the size 
 short-description: collaborative conference room
 work-date: 2010-2015
 columns: 3
+order: 15
 ---
 
-The <a href="{{ site.baseurl }}{% link _work/005-mezzanine.md %}">Mezzanine</a> wand is a 6-degree-of-freedom device that enables pointing at any screen in a Mezzanine room.
+The <a href="{{ site.baseurl }}{% link _work/mezzanine.md %}">Mezzanine</a> wand is a 6-degree-of-freedom device that enables pointing at any screen in a Mezzanine room.
 The Mezzanine interface provides rich visual feedback about the wand's movement to build the user's trust and confidence in their ability to use the device.
 Mezzanine is built on Oblong's g-speak platform, which models both the wand and the displays in the room in a coherent 3D space.
 The wand can even be used to interact with elements that are not represented on a screen, simply by pointing at them (for example, pointing at a whiteboard to take a picture of it).

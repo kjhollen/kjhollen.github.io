@@ -8,6 +8,7 @@ thumbnail-alt: "Four people collaborating in a high-tech Oblong Mezzanine confer
 short-description: collaborative conference room
 work-date: 2010-2015
 columns: 4
+order: 12
 ---
 
 <div class="invisible-margin image-grid">
@@ -27,7 +28,7 @@ Participants can focus on getting work done together.
 As Oblong’s Director of Design and Computation, I recruited and led an interdisciplinary team to define the company’s design direction and build user interfaces for Mezzanine.
 The team developed a cohesive visual and interactive style across large-scale displays, mobile devices with iOS and Android, and browser-based interfaces on laptops.
 
-For an overview of Mezzanine features, see the videos below. See also: more details about the <a href="{{ site.baseurl }}{% link _work/006-mezzanine-ui.md %}">mobile and web UI design for Mezzanine</a> and the <a href="{{ site.baseurl }}{% link _work/007-mezzanine-gesture-ui.md %}">gestural interface for Mezzanine</a>.
+For an overview of Mezzanine features, see the videos below. See also: more details about the <a href="{{ site.baseurl }}{% link _work/mezzanine-ui.md %}">mobile and web UI design for Mezzanine</a> and the <a href="{{ site.baseurl }}{% link _work/mezzanine-gesture-ui.md %}">gestural interface for Mezzanine</a>.
 
 <div class="invisible-margin image-grid">
 <div class="col-30-block grid-margin-bottom video">

@@ -13,13 +13,14 @@ I work with interactive systems and new technologies relating body, gesture, and
 <div id="works">
   <div class="work-sizer"></div>
   <div class="gutter-sizer"></div>
-{% for item in site.work %}{% unless item.hide %}<div class="work {% if item.columns %}work--width{{item.columns}}{% endif %}">
-	<a href="{{ item.url }}">
-	<div>
-	<img src="{{ site.baseurl }}{{ item.thumbnail-path }}" alt="{{ item.thumbnail-alt }}"/>
-	</div>
-  <p><span class="work-title-splash">{{ item.title }}</span><span class="work-date"> {{ item.work-date }}</span></p>
-	</a>
+  {% assign sorted_works = site.work | sort:"order" %}
+  {% for item in sorted_works | sort:"order"%}{% unless item.hide %}<div class="work {% if item.columns %}work--width{{item.columns}}{% endif %}">
+  	<a href="{{ item.url }}">
+  	<div>
+  	<img src="{{ site.baseurl }}{{ item.thumbnail-path }}" alt="{{ item.thumbnail-alt }}"/>
+  	</div>
+    <p><span class="work-title-splash">{{ item.title }}</span><span class="work-date"> {{ item.work-date }}</span></p>
+  	</a>
 	</div>{% endunless %}{% endfor %}
 </div>
 

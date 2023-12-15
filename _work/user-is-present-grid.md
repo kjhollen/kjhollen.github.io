@@ -8,6 +8,7 @@ short-description: software, installation
 thumbnail-alt: "Person examines a grid of video collage portraits projected on a wall, showing a blend of a user's face, environment, and interface in user_is_present (grid series)"
 columns: 2
 work-date: 2019
+order: 7
 ---
 
 <div class="invisible-margin image-grid">
@@ -20,7 +21,7 @@ work-date: 2019
 <i>USER_IS_PRESENT (grid series)</i> shows a sequence of video and screen captures from a user's mobile device, looping in their entirety.
 The video reflects a series of habits, the simultaneity of checking out and checking in, a repetition, a set of gestures, a body performing the gestures; a human user.
 
-See also: <a href="{{ site.baseurl }}{% link _work/002a-user-is-present.md %}"><em>USER_IS_PRESENT</em></a>, <a href="{{ site.baseurl }}{% link _work/003b-phonelovesyoutoo-matrix.md %}"><em>phonelovesyoutoo: matrix</em></a> and <a href="{{ site.baseurl }}{% link _work/003a-phonelovesyoutoo-database.md %}"><em>phonelovesyoutoo: database</em></a>.
+See also: <a href="{{ site.baseurl }}{% link _work/user-is-present.md %}"><em>USER_IS_PRESENT</em></a>, <a href="{{ site.baseurl }}{% link _work/phonelovesyoutoo-matrix.md %}"><em>phonelovesyoutoo: matrix</em></a> and <a href="{{ site.baseurl }}{% link _work/phonelovesyoutoo-database.md %}"><em>phonelovesyoutoo: database</em></a>.
 
 <div class="invisible-margin image-grid">
 <div class="col-30-block grid-margin-bottom video">

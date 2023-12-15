@@ -8,6 +8,7 @@ thumbnail-alt: "The Openstudio homepage, with a feed of announcements, new drawi
 short-description: digital art community
 work-date: 2005-2008
 columns: 3
+order: 23
 ---
 
 Openstudio was an online experiment in collaboration, creativity, and capitalism created by the <a href="http://plw.media.mit.edu/">Physical Language Workshop</a> at the MIT Media Lab, led by <a href="https://twitter.com/johnmaeda">John Maeda</a>.

@@ -7,6 +7,7 @@ thumbnail-path: images/gsdraw-thumb.jpg
 thumbnail-alt: "Man creating and drawing virtual marks on a projection screen using gestural tracking software"
 short-description: gestural drawing
 work-date: 2009
+order: 19
 ---
 
 g-speak draw is an additive & subtractive gestural drawing installation. Performers can select color (black or white) and shape to draw with (circle or line), then squeeze hands (make a fist) to draw. I designed and developed this application as part of the Embodied Computation studio at RISD in 2009, led by instructor <a href="http://www.amberfj.com/">Amber Frid-Jimenez</a>.

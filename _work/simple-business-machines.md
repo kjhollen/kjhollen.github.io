@@ -8,6 +8,7 @@ thumbnail-alt: "Computer generated grid of buttons, lights, levers, and knobs fr
 short-description: generative images
 work-date: 2015
 columns: 2
+order: 16
 ---
 
 <div class="invisible-margin image-grid">

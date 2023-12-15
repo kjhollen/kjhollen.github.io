@@ -7,6 +7,7 @@ thumbnail-path: images/tangle-thumb.jpg
 thumbnail-alt: "Two performers wearing gesture tracking gloves to draw virtual lines between their hands on a distant screen"
 short-description: gestural drawing
 work-date: 2009
+order: 21
 ---
 Tangle is a simple gestural sketch that draws lines between the left and right hands of two participants. Lines follow participants hands in real time.
 

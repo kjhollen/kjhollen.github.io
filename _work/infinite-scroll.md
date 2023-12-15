@@ -8,6 +8,7 @@ thumbnail-alt: "Man observes art installation with nine iPhones mounted on the w
 short-description: generative video, installation
 work-date: 2016
 columns: 2
+order: 11
 ---
 
 <div class="invisible-margin image-grid">

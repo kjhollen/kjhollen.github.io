@@ -8,6 +8,7 @@ thumbnail-alt: "A calendar grid of smartphone video taken simultaneously from th
 short-description: software, video projection
 work-date: 2018
 columns: 2
+order: 10
 ---
 
 <em>People You May Know</em> visualizes the aggregate data of a social network.

@@ -8,6 +8,7 @@ thumbnail-alt: "Two walls covered in a video projection of a grid of many smartp
 columns: 4
 short-description: software, video projection
 work-date: 2016
+order: 9
 ---
 
 <div class="invisible-margin image-grid">
@@ -28,4 +29,4 @@ Each tile in the matrix captures habits, expressions, and neuroses. With the fac
 
 <i>phonelovesyoutoo: matrix</i> was recently exhibit at SFMOMA as part of the Snap + Share exhibition.
 
-See also: <a href="{{ site.baseurl }}{% link _work/003a-phonelovesyoutoo-database.md %}"><em>phonelovesyoutoo: database</em></a> and <a href="{{ site.baseurl }}{% link _work/002a-user-is-present.md %}"><em>USER_IS_PRESENT</em></a>.
+See also: <a href="{{ site.baseurl }}{% link _work/phonelovesyoutoo-database.md %}"><em>phonelovesyoutoo: database</em></a> and <a href="{{ site.baseurl }}{% link _work/user-is-present.md %}"><em>USER_IS_PRESENT</em></a>.

@@ -8,6 +8,7 @@ short-description: software, installation
 thumbnail-alt: "Woman examines a video collage portrait on a wall, showing a blend of a user's face, environment, and interface in user_is_present"
 columns: 4
 work-date: 2017
+order: 6
 ---
 
 <div class="invisible-margin image-grid">
@@ -59,7 +60,7 @@ The work examines the tensions of interface design for new technologies, from th
 </div>
 </div>
 
-To create <em>USER_IS_PRESENT</em>, I further developed the recording software used in <a href="{{ site.baseurl }}{% link _work/003b-phonelovesyoutoo-matrix.md %}"><em>phonelovesyoutoo: matrix</em></a> to capture the screen of the phone while it was in use, in addition to the front and back cameras.
+To create <em>USER_IS_PRESENT</em>, I further developed the recording software used in <a href="{{ site.baseurl }}{% link _work/phonelovesyoutoo-matrix.md %}"><em>phonelovesyoutoo: matrix</em></a> to capture the screen of the phone while it was in use, in addition to the front and back cameras.
 The same basic parameters applied: while the phone is in use, it records three video streams.
 The streams are later integrated together into a single channel.
 
@@ -72,4 +73,4 @@ The chance juxtaposition allows different references to be drawn between the scr
 
 Select stills from each of the three video portraits are shown above.
 
-See also: <a href="{{ site.baseurl }}{% link _work/003b-phonelovesyoutoo-matrix.md %}"><em>phonelovesyoutoo: matrix</em></a> and <a href="{{ site.baseurl }}{% link _work/003a-phonelovesyoutoo-database.md %}"><em>phonelovesyoutoo: database</em></a>.
+See also: <a href="{{ site.baseurl }}{% link _work/phonelovesyoutoo-matrix.md %}"><em>phonelovesyoutoo: matrix</em></a> and <a href="{{ site.baseurl }}{% link _work/phonelovesyoutoo-database.md %}"><em>phonelovesyoutoo: database</em></a>.
